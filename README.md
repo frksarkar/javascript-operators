@@ -8,12 +8,12 @@
   * Increment: ++
   * Decrement: --
 ### Assignment Operators:
-  * Assignment: =
-  * Addition assignment: +=
-  * Subtraction assignment: -=
-  * Multiplication assignment: *=
-  * Division assignment: /=
-  * Modulus assignment: %=
+  * Assignment:` =`
+  * Addition assignment:` +=`
+  * Subtraction assignment:` -=`
+  * Multiplication assignment:` *=`
+  * Division assignment:` /=`
+  * Modulus assignment:` %=`
 ### Comparison Operators:
   * Equal to: ==
   * Not equal to: !=
