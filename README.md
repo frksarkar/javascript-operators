@@ -2,11 +2,11 @@
 ### Arithmetic Operators:
   * Addition: +
   * Subtraction: -
-  Multiplication: *
-  Division: /
-  Modulus: %
-  Increment: ++
-  Decrement: --
+  * Multiplication: *
+  * Division: /
+  * Modulus: %
+  * Increment: ++
+  * Decrement: --
 ### Assignment Operators:
   Assignment: =
   Addition assignment: +=
