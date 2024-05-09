@@ -1,7 +1,7 @@
 # javascript-operators
 ### Arithmetic Operators:
-  ... Addition: +
-  ... Subtraction: -
+  * Addition: +
+  * Subtraction: -
   Multiplication: *
   Division: /
   Modulus: %
