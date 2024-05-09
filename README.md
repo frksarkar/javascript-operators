@@ -1,5 +1,5 @@
 # javascript-operators
-Arithmetic Operators:
+### H3 Arithmetic Operators:
   Addition: +
   Subtraction: -
   Multiplication: *
