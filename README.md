@@ -1,5 +1,5 @@
 # javascript-operators
-### H3 Arithmetic Operators:
+### Arithmetic Operators:
   Addition: +
   Subtraction: -
   Multiplication: *
@@ -7,14 +7,14 @@
   Modulus: %
   Increment: ++
   Decrement: --
-Assignment Operators:
+### Assignment Operators:
   Assignment: =
   Addition assignment: +=
   Subtraction assignment: -=
   Multiplication assignment: *=
   Division assignment: /=
   Modulus assignment: %=
-Comparison Operators:
+### Comparison Operators:
   Equal to: ==
   Not equal to: !=
   Strict equal to: ===
@@ -27,7 +27,7 @@ Comparison Operators:
   Logical AND: &&
   Logical OR: ||
   Logical NOT: !
-Bitwise Operators:
+### Bitwise Operators:
   Bitwise AND: &
   Bitwise OR: |
   Bitwise XOR: ^
@@ -44,7 +44,7 @@ Bitwise Operators:
   Bitwise NOT: ~
   Typeof: typeof
   Void: void
-Ternary Operator:
+### Ternary Operator:
   Ternary: condition ? value1 : value2
   Nullish Coalescing Operator:
   Nullish coalescing: ??
