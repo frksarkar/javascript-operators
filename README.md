@@ -1,5 +1,5 @@
 # javascript-operators
-### Arithmetic Operators:
+### $\color{red}{{Arithmetic Operators}}$
   * Addition:` +`
   * Subtraction:` -`
   * Multiplication:` *`
