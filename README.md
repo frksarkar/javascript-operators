@@ -1,5 +1,5 @@
 # javascript-operators
-### $\color{red}{Arithmetic Operators}$
+### $\color{green}{Arithmetic Operators}$
   * Addition:` +`
   * Subtraction:` -`
   * Multiplication:` *`
@@ -7,7 +7,7 @@
   * Modulus:` %`
   * Increment:` ++`
   * Decrement:` --`
-### Assignment Operators:
+### ${\color{green}Assignment Operators:}$
   * Assignment:` =`
   * Addition assignment:` +=`
   * Subtraction assignment:` -=`
