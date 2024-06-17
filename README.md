@@ -14,7 +14,7 @@
   * Multiplication assignment:` *=`
   * Division assignment:` /=`
   * Modulus assignment:` %=`
-### Comparison Operators:
+### ${\color{green}Comparison Operators:}$
   * Equal to:` ==`
   * Not equal to:` !=`
   * Strict equal to:` ===`
