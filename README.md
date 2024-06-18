@@ -23,7 +23,7 @@
   * Less than:` <`
   * Greater than or equal to:` >=`
   * Less than or equal to:` <=`
-### Logical Operators:
+### ${\color{green}Logical Operators:}$
   * Logical AND:` &&`
   * Logical OR:` ||`
   * Logical NOT:` !`
