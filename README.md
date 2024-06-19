@@ -27,7 +27,7 @@
   * Logical AND:` &&`
   * Logical OR:` ||`
   * Logical NOT:` !`
-### Bitwise Operators:
+### ${\color{green}Bitwise Operators:}$
   * Bitwise AND:` &`
   * Bitwise OR:` |`
   * Bitwise XOR:` ^`
