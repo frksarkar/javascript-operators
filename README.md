@@ -35,7 +35,7 @@
   * Left shift:` <<`
   * Right shift:` >>`
   * Unsigned right shift:` >>>`
-### Unary Operators:
+### ${\color{green}Unary Operators:}$
   * Unary plus:` +`
   * Unary minus:` -`
   * Increment:` ++`
