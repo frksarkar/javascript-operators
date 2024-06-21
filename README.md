@@ -44,7 +44,7 @@
   * Bitwise NOT:` ~`
   * Typeof:` typeof`
   * Void:` void`
-### Ternary Operator:
+### ${\color{green}Ternary Operator:}$
   * Ternary:` condition ? value1 : value2`
 ### Nullish Coalescing Operator:
   * Nullish coalescing:` ??`
