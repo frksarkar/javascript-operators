@@ -46,7 +46,7 @@
   * Void:` void`
 ### ${\color{green}Ternary Operator:}$
   * Ternary:` condition ? value1 : value2`
-### Nullish Coalescing Operator:
+### ${\color{green}Nullish Coalescing Operator:}$
   * Nullish coalescing:` ??`
 ### Spread Operator:
   * Spread:` ...`
