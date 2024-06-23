@@ -48,5 +48,5 @@
   * Ternary:` condition ? value1 : value2`
 ### ${\color{green}Nullish Coalescing Operator:}$
   * Nullish coalescing:` ??`
-### Spread Operator:
+### ${\color{green}Spread Operator:}
   * Spread:` ...`
